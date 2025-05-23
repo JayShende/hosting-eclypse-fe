@@ -72,7 +72,7 @@ const ProductShop = () => {
           </div>
           <div className="w-full h-0  outline-1 outline-offset-[-0.50px] outline-zinc-300 mt-[54px]"></div>
           <div className="mt-[85px] flex gap-x-[32px]">
-            <div className="w-[48] h-16 px-20 py-3.5 rounded-lg outline-2 outline-offset-[-2px] outline-stone-300 flex justify-center items-center">
+            <div className="w-48 h-16 px-2 py-3.5 rounded-lg outline-2 outline-offset-[-2px] outline-stone-300 flex justify-center items-center">
               <span className="text-stone-950 text-xl font-medium font-Poppins">
                 Add to Cart
               </span>
